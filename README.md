@@ -5,4 +5,4 @@ An old pond
 A frog jumps in
 The sound of water.
 
-There is sand in the toilet.
+There is sand on the beach!
