@@ -1,9 +1,6 @@
 # hello-world
-It's release time. No more flow, just go. With Feeling!
+It's bug smashing time!
 
 An old pond
 A frog jumps in
 The sound of water.
-
-There's no time for beaches.
-Is it now time for flow?
