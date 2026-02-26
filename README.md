@@ -6,3 +6,4 @@ A frog jumps in
 The sound of water.
 
 That haiku is not about bug smashing...
+Is the bug under water?
